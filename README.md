@@ -2,6 +2,8 @@
 
 # Shortcut Agent Skill
 
+# Rupert Guppy
+
 ### AI-Powered Apple Shortcuts Generator
 
 Describe what you want to automate in plain language.
